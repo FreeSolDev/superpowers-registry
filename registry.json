@@ -2,15 +2,15 @@
   "version": 2,
 
   "core": {
-    "version": "6.0.1",
-    "downloadURL": "https://github.com/togimaro/superpowers-core/releases/download/v6.0.1/superpowers-core-v6.0.1.zip",
+    "version": "6.0.2",
+    "downloadURL": "https://github.com/togimaro/superpowers-core/releases/download/v6.0.2/superpowers-core-v6.0.2.zip",
     "releaseNotesURL": "https://github.com/togimaro/superpowers-core/releases"
   },
 
   "systems": {
     "game": {
-      "version": "6.0.1",
-      "downloadURL": "https://github.com/togimaro/superpowers-game/releases/download/v6.0.1/superpowers-game-v6.0.1.zip",
+      "version": "6.0.2",
+      "downloadURL": "https://github.com/togimaro/superpowers-game/releases/download/v6.0.2/superpowers-game-v6.0.2.zip",
       "releaseNotesURL": "https://github.com/togimaro/superpowers-game/releases",
       "plugins": {
         "togi": {
