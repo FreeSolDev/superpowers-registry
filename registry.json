@@ -35,6 +35,11 @@
           }
         },
         "florentpoujol": {
+          "ftext": {
+            "version": "0.4.1",
+            "downloadURL": "https://github.com/florentpoujol/superpowers-game-ftext-plugin/archive/v0.4.1.zip",
+            "releaseNotesURL": "https://github.com/florentpoujol/superpowers-game-ftext-plugin/releases"
+          },
           "flang": {
             "version": "0.4.1",
             "downloadURL": "https://github.com/florentpoujol/superpowers-game-flang-plugin/archive/v0.4.1.zip",
